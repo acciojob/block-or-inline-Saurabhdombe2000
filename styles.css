@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.divblock {
+	margin-bottom:20px;
+}
+ div divblock span, div divblock button, div divblock input, 
+    div divblock cite, div divblock code, div divblock sup, 
+    div divblock sub, div divblock p, div divblock h1, div divblock div {
+      margin-right: 5px;
